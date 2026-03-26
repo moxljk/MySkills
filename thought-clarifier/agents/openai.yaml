@@ -1,0 +1,7 @@
+interface:
+  display_name: "Thought Clarifier"
+  short_description: "Clarify mixed thoughts into clear structure"
+  default_prompt: "Use $thought-clarifier to help me clarify a messy idea and understand what I am actually trying to say."
+
+policy:
+  allow_implicit_invocation: false

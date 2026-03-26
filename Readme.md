@@ -1,3 +1,5 @@
 - 自用的agent-skill。
 - 不完善，需要在使用中打磨修改的。
 
+# 列表
+- [thought-clarifier](https://github.com/moxljk/MySkills/thought-clarifier)
